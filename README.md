@@ -20,19 +20,19 @@
 
 ## 👤 About Me
 
-Joven estudiante universitario de **Ingeniería de Software**. Me especializo en el desarrollo Full Stack, creando aplicaciones robustas y eficientes a lo largo de todo el stack tecnológico. Me apasiona diseñar interfaces dinámicas y atractivas en el frontend y estructurar sistemas backend escalables, combinando la lógica y las buenas prácticas de la ingeniería.
+Young university student studying **Software Engineering**. I specialize in Full Stack development, creating robust and efficient applications across the entire technology stack. I am passionate about designing dynamic and engaging frontend interfaces and structuring scalable backend systems, combining engineering logic with industry best practices.
 
-**Áreas de Enfoque:**
-*   💻 Diseño de interfaces modernas, responsivas y altamente interactivas.
-*   ⚙️ Desarrollo backend y consumo/creación de APIs RESTful robustas.
-*   🗄️ Modelado, estructuración y optimización de bases de datos.
-*   🔧 Automatización de flujos y control de versiones con Git y GitHub.
+**Key Focus Areas:**
+*   💻 Designing modern, responsive, and highly interactive user interfaces.
+*   ⚙️ Backend development and consuming/building robust RESTful APIs.
+*   🗄️ Modeling, structuring, and optimizing relational and non-relational databases.
+*   🔧 Workflow automation and version control using Git and GitHub.
 
 <picture> 
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220px" style="border-radius: 10px;" />
 </picture>
 
-*   📧 **Contacto:** <a href="mailto:leonardoluisdelacruz01@gmail.com">leonardoluisdelacruz01@gmail.com</a>
+*   📧 **Contact:** <a href="mailto:leonardoluisdelacruz01@gmail.com">leonardoluisdelacruz01@gmail.com</a>
 *   🧠 *Always believe "You are what you loved"*
 
 <br><br>
@@ -60,8 +60,8 @@ Joven estudiante universitario de **Ingeniería de Software**. Me especializo en
 
 ---
 
-<!-- Grid de Estadísticas en vivo de GitHub (URL oficial y con salto de caché) -->
-## 📊 Estadísticas de GitHub
+<!-- Grid de Estadísticas en vivo de GitHub -->
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -78,7 +78,7 @@ Joven estudiante universitario de **Ingeniería de Software**. Me especializo en
 
 <!-- Footer y Contador de Visitas Activo -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leo124123&label=Visitas%20al%20Perfil&color=38bdf8&style=flat-square" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=leo124123&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
   <br><br>
-  <sub>Julio 2026</sub>
+  <sub>July 2026</sub>
 </div>
