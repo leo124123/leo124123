@@ -13,11 +13,12 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>🚀 Full Stack Junior | Apprentice</h3>
-      <p>Estudiante en mi último año de secundaria, apasionado por el desarrollo de software y en constante aprendizaje. Mi meta es estudiar Ingeniería de Software para diseñar soluciones tecnológicas de alto nivel.</p>
+      <h3>🚀 Joven Universitario | Full Stack Junior</h3>
+      <p>¡Hola! Soy un estudiante universitario apasionado por la <strong>Ingeniería de Software</strong>. Me considero una persona creativa, curiosa y con una mentalidad orientada al aprendizaje continuo y la resolución de problemas lógicos.</p>
+      <p>Combino el desarrollo frontend y backend bajo una arquitectura Full Stack para construir soluciones web funcionales, optimizadas y con una excelente experiencia de usuario. Mi objetivo es seguir expandiendo mis conocimientos técnicos y aportar valor a proyectos innovadores.</p>
       <ul>
-        <li>💻 <strong>Enfoque Actual:</strong> Desarrollo Frontend &amp; Ciencia de Datos (Data Science).</li>
-        <li>🌱 <strong>Evolucionando:</strong> Node.js, Express y bases de datos.</li>
+        <li>💻 <strong>Enfoque Actual:</strong> Desarrollo Full Stack &amp; Ciencia de Datos (Data Science).</li>
+        <li>🌱 <strong>Core Tech Stack:</strong> JavaScript, TypeScript, React, Node.js y bases de datos.</li>
         <li>📧 <strong>Contacto:</strong> <a href="mailto:leonardoluisdelacruz01@gmail.com">leonardoluisdelacruz01@gmail.com</a></li>
       </ul>
       <blockquote>
@@ -43,7 +44,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,github,npm" alt="Backend & Tools" />
 </a>
-<p><em>🌱 Aprendiendo activamente Express para robustecer el backend.</em></p>
 
 <br>
 
