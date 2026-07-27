@@ -8,44 +8,57 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 👤 Sobre Mí
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Leonardo Luis</h1></summary>
+  </ul>
+</div>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Joven Universitario | Full Stack Junior</h3>
-      <p>¡Hola! Soy un estudiante universitario apasionado por la <strong>Ingeniería de Software</strong>. Me considero una persona creativa, proactiva y con una fuerte motivación por el aprendizaje continuo y el desarrollo de tecnologías modernas.</p>
-      <p>Desarrollo soluciones tanto en el Frontend como en el Backend bajo un perfil <strong>Full Stack Junior</strong>. Me enfoco en escribir código limpio, eficiente y escalable para crear experiencias de usuario interactivas, funcionales y memorables.</p>
-      <ul>
-        <li>💻 <strong>Enfoque Principal:</strong> Desarrollo Full Stack &amp; Ciencia de Datos (Data Science).</li>
-        <li>🌱 <strong>Core Tech Stack:</strong> JavaScript, TypeScript, React, Node.js, Express y bases de datos.</li>
-        <li>📧 <strong>Contacto:</strong> <a href="mailto:leonardoluisdelacruz01@gmail.com">leonardoluisdelacruz01@gmail.com</a></li>
-      </ul>
-      <blockquote>
-        🧠 <em>"You are what you loved"</em>
-      </blockquote>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220px" style="border-radius: 10px;" alt="GIF animado" />
-    </td>
-  </tr>
-</table>
+**Full Stack Junior | Software Engineering Student**
+
+---
+
+## 👤 About Me
+
+Joven estudiante universitario de **Ingeniería de Software**. Me especializo en el desarrollo Full Stack, creando aplicaciones robustas y eficientes a lo largo de todo el stack tecnológico. Me apasiona diseñar interfaces dinámicas y atractivas en el frontend y estructurar sistemas backend escalables, combinando la lógica y las buenas prácticas de la ingeniería.
+
+**Áreas de Enfoque:**
+*   💻 Diseño de interfaces modernas, responsivas y altamente interactivas.
+*   ⚙️ Desarrollo backend y consumo/creación de APIs RESTful robustas.
+*   🗄️ Modelado, estructuración y optimización de bases de datos.
+*   🔧 Automatización de flujos y control de versiones con Git y GitHub.
+
+<picture> 
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220px" style="border-radius: 10px;" />
+</picture>
+
+*   📧 **Contacto:** <a href="mailto:leonardoluisdelacruz01@gmail.com">leonardoluisdelacruz01@gmail.com</a>
+*   🧠 *Always believe "You are what you loved"*
+
+<br><br>
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages & Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,astro,vue" alt="Frontend & Languages" />
+</a>
+
+### ⚙️ Backend, Databases & ORM
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres" alt="Backend & Tools" />
+</a>
+
+### 🔧 Tools & Package Managers
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,npm" alt="Tools" />
+</a>
 
 <br>
 
-## 🛠️ Habilidades Técnicas
-
-### 💻 Lenguajes y Desarrollo Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,astro,vue" alt="Frontend & Languages" />
-</a>
-
-### ⚙️ Backend, Bases de Datos y Herramientas
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,github,npm" alt="Backend & Tools" />
-</a>
-
-<br>
+---
 
 <!-- Sección del Gusanito Neón de Commits -->
 ## 🐍 Tablero de Commits (Snake Game)
@@ -58,8 +71,14 @@
 
 <br>
 
-<!-- Grid de Estadísticas en vivo de GitHub -->
+<!-- Grid de Estadísticas en vivo de GitHub (incluye la tarjeta de streak) -->
 ## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo124123&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" width="100%" />
+  </a>
+</p>
 
 <table align="center">
   <tr>
