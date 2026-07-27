@@ -1,6 +1,6 @@
-<!-- Encabezado de la Terminal Animada -->
+<!-- Encabezado de la Terminal Animada (URL Absoluta para saltar la caché) -->
 <p align="center">
-  <img src="./profile.svg" width="100%" alt="Leonardo Luis Terminal Dashboard">
+  <img src="https://raw.githubusercontent.com/leo124123/leo124123/main/profile.svg?v=3" width="100%" alt="Leonardo Luis Terminal Dashboard">
 </p>
 
 <!-- Separador en Degradado Animado -->
@@ -51,27 +51,16 @@ Joven estudiante universitario de **Ingeniería de Software**. Me especializo en
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres" alt="Backend & Tools" />
 </a>
 
-### <b>🔧 Tools & Package Managers</b>
+### 🔧 Tools & Package Managers
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,npm" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm" alt="Tools" />
 </a>
 
 <br>
 
 ---
 
-<!-- Sección del Gusanito Neón de Commits -->
-## 🐍 Tablero de Commits (Snake Game)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leo124123/leo124123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leo124123/leo124123/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/leo124123/leo124123/output/github-snake.svg" width="100%" />
-</picture>
-
-<br>
-
-<!-- Grid de Estadísticas en vivo de GitHub (tamaño nativo y centrado) -->
+<!-- Grid de Estadísticas en vivo de GitHub -->
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
