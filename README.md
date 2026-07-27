@@ -51,7 +51,7 @@ Joven estudiante universitario de **Ingeniería de Software**. Me especializo en
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres" alt="Backend & Tools" />
 </a>
 
-### 🔧 Tools & Package Managers
+### <b>🔧 Tools & Package Managers</b>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,npm" alt="Tools" />
 </a>
@@ -71,12 +71,12 @@ Joven estudiante universitario de **Ingeniería de Software**. Me especializo en
 
 <br>
 
-<!-- Grid de Estadísticas en vivo de GitHub (solo la tarjeta de commits/rachas) -->
+<!-- Grid de Estadísticas en vivo de GitHub (tamaño nativo y centrado) -->
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo124123&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo124123&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
   </a>
 </p>
 
