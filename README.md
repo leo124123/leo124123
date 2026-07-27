@@ -1,65 +1,87 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Encabezado de la Terminal Animada -->
+<p align="center">
+  <img src="./profile.svg" width="100%" alt="Leonardo Luis Terminal Dashboard">
+</p>
 
-<!--h1 without bottom border-->
+<!-- Separador en Degradado Animado -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Leonardo Luis </h1></summary>
-  </ul>
-</div>
+## 👤 Sobre Mí
 
-
-<!--About Me-->
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
-- :school: I am a `Junior Web Developer | Full Stack Apprentice`I'm in my last year of high school and I'm going to study software engineering
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Leo&amp;color=EA4335&amp;style=flat-square)](leonardoluisdelacruz01@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
-                                <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-
-<br>
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-
-### 🎨 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,vue)](https://skillicons.dev)
-
-### ⚙️ Backend & Runtime
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-> 🌱 Express (en aprendizaje)
-
-### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-### 🔧 Tools & Package Manager
-[![My Skills](https://skillicons.dev/icons?i=git,github,npm)](https://skillicons.dev)
-
-
- <td width="50%" align="center" >
-         <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Full Stack Junior | Apprentice</h3>
+      <p>Estudiante en mi último año de secundaria, apasionado por el desarrollo de software y en constante aprendizaje. Mi meta es estudiar Ingeniería de Software para diseñar soluciones tecnológicas de alto nivel.</p>
+      <ul>
+        <li>💻 <strong>Enfoque Actual:</strong> Desarrollo Frontend &amp; Ciencia de Datos (Data Science).</li>
+        <li>🌱 <strong>Evolucionando:</strong> Node.js, Express y bases de datos.</li>
+        <li>📧 <strong>Contacto:</strong> <a href="mailto:leonardoluisdelacruz01@gmail.com">leonardoluisdelacruz01@gmail.com</a></li>
+      </ul>
+      <blockquote>
+        🧠 <em>"You are what you loved"</em>
+      </blockquote>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220px" style="border-radius: 10px;" alt="GIF animado" />
+    </td>
+  </tr>
 </table>
 
+<br>
 
+## 🛠️ Habilidades Técnicas
 
+### 💻 Lenguajes y Desarrollo Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,astro,vue" alt="Frontend & Languages" />
+</a>
 
-[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+### ⚙️ Backend, Bases de Datos y Herramientas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,github,npm" alt="Backend & Tools" />
+</a>
+<p><em>🌱 Aprendiendo activamente Express para robustecer el backend.</em></p>
 
+<br>
+
+<!-- Sección del Gusanito Neón de Commits -->
+## 🐍 Tablero de Commits (Snake Game)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leo124123/leo124123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leo124123/leo124123/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/leo124123/leo124123/output/github-snake.svg" width="100%" />
+</picture>
+
+<br>
+
+<!-- Grid de Estadísticas en vivo de GitHub -->
+## 📊 Estadísticas de GitHub
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api?username=leo124123&show_icons=true&theme=tokyonight&locale=es&border_radius=10" alt="GitHub General Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=leo124123&layout=compact&theme=tokyonight&locale=es&border_radius=10" alt="Top Languages Used" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Separador en Degradado Animado -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- Footer y Contador de Visitas Activo -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=leo124123&label=Visitas%20al%20Perfil&color=38bdf8&style=flat-square" alt="Contador de Visitas" />
+  <br><br>
+  <sub>Julio 2026</sub>
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
------------
-
-Credit: [leo124123](https://github.com)
-
-Last Edited on: 1/17/2026
