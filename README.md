@@ -71,7 +71,7 @@ Joven estudiante universitario de **Ingeniería de Software**. Me especializo en
 
 <br>
 
-<!-- Grid de Estadísticas en vivo de GitHub (incluye la tarjeta de streak) -->
+<!-- Grid de Estadísticas en vivo de GitHub (solo la tarjeta de commits/rachas) -->
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -79,17 +79,6 @@ Joven estudiante universitario de **Ingeniería de Software**. Me especializo en
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo124123&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" width="100%" />
   </a>
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=leo124123&show_icons=true&theme=tokyonight&locale=es&border_radius=10" alt="GitHub General Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=leo124123&layout=compact&theme=tokyonight&locale=es&border_radius=10" alt="Top Languages Used" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <br>
 
