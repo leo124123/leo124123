@@ -60,12 +60,12 @@ Joven estudiante universitario de **Ingeniería de Software**. Me especializo en
 
 ---
 
-<!-- Grid de Estadísticas en vivo de GitHub -->
+<!-- Grid de Estadísticas en vivo de GitHub (URL oficial y con salto de caché) -->
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo124123&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=leo124123&theme=tokyonight&border_radius=10&v=4" alt="GitHub Streak Stats" />
   </a>
 </p>
 
